@@ -6,15 +6,15 @@ public class Main {
 
         // Task 3: call product method with two integer parameters
         int result1 = p.product(5, 6);
-        System.out.println("Result 1: " + result1);
+        //System.out.println("Result 1: " + result1);
 
         // Task 4: call product method with three integer parameters
         int result2 = p.product(5, 6, 7);
-        System.out.println("Result 2: " + result2);
+        //System.out.println("Result 2: " + result2);
 
         // Task 5: call product method with two double parameters
         double result3 = p.product(2.5, 3.5);
-        System.out.println("Result 3: " + result3);
+        //System.out.println("Result 3: " + result3);
     }
 
     public static class Product {
